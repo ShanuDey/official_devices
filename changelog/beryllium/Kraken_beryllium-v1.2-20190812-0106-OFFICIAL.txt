@@ -1,0 +1,23 @@
+- Merge security path August (android-9.0.0_r46)
+- Update Lawnchair alpha-2357
+- Automatic translation import
+- PrivacyGuard: Resolve error message hardcoded white color
+- livedisplay: Don't show duplicate title in LiveDisplay options
+- Settings: Don't index display mode and color temperature on HWC2
+- LiveDisplaySettings: Fix outdoor mode preference on hwc2
+- Settings: Preserve sound timeout pref when showing legacy notificatio…
+- Settings: per-app VPN data restriction
+- SystemUI: Use appropriate function when trying to retrieve colorError
+- SystemUI: Fix multiple issues with hiding unprovisioned SIMs Fix sim pin - on DSDS
+- Dismiss SIM lock page after correct SIM
+- When data switches during voice call, make sure signal bar updates it.
+- Stop USB Debugging authorization window dismissing on tap outside.
+- Update navigation bar upon change of display density
+- Unable to input PIN with hardware keyboard
+- Fix the behavior of keyguard bouncer in a corner case
+- Fixes context for tiles without longClick
+- Fix to register the receiver for all users
+- Remove unnecessary right padding from time picker
+- config: Remove duplicate notification sounds
+- config: Include charging sounds in notification sounds
+- LatinIME: Add Polish dictionary
