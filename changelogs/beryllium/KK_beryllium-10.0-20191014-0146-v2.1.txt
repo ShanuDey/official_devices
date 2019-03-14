@@ -1,0 +1,24 @@
+- Update user for ims daemons
+- Update rtp daemon user group
+- Update user group for daemons
+- Kang newer power-off alarm blobs
+- Update performance values in xml file
+- media: Update opus omx codec ranking
+- Update performance entries as per latest results
+- Update latest media codecs performance values
+- media_profiles: mpeg4 sw encoder only supports max 720p
+- Convert remaining configstore settings to props
+- Enabling sound trigger V2_2
+- sepolicy: Label white led sysfs node
+- power: Modify definitions of Perf client calls
+- Drop mediaextractor seccomp policy
+- sepolicy: Label ~ legacy ~ neural networks 1.1 HAL
+- Change user/group permission for for charger
+- Move offline charging daemon to new path and update label
+- Kill framework compatibility matrix with fire
+- Add capabilityconfigstore HAL
+- Support vendor.display.config 1.7 in the FCM
+- Correct hwcomposer name
+- Switch to composer 2.3
+- Update display and media stack to Q
+- Update vendor.display.config version to 1.7
