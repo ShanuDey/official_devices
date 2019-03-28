@@ -1,0 +1,36 @@
+[CENTER][IMG="KrakenProject"]https://raw.githubusercontent.com/KrakenProject/official_devices/master/docs/banner.png[/IMG]
+
+[CODE] /*
+ * I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed (like it did for me...).
+ * Please do some research if you have any concerns about features included in the products you find here before flashing it!
+ * YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
+ * Your warranty will be void if you tamper with any part of your device / software.
+ * Same statement for XDA.
+ */[/CODE]
+
+[FONT="Courier New"][COLOR="RoyalBlue"][SIZE="4"][B]Based on Android 9.0[/B][/SIZE][/COLOR][/FONT]
+
+[FONT="Courier New"][COLOR="DarkSlateGray"][SIZE="4"][B]About[/B][/SIZE][/COLOR][/FONT]
+Our proposal is giving the best of clean Android experience, without forgetting few useful personalizations!
+
+[FONT="Courier New"][COLOR="DarkSlateGray"][SIZE="4"][B]GApps[/B][/SIZE][/COLOR][/FONT]
+[B]DON'T FLASH GAPPS[/B], The OpenGApps project is already included.
+
+[FONT="Courier New"][COLOR="DarkSlateGray"][SIZE="4"][B]What's working[/B][/SIZE][/COLOR][/FONT]
+Yours Working in the build
+
+[FONT="Courier New"][COLOR="DarkSlateGray"][SIZE="4"][B]Known issues[/B][/SIZE][/COLOR][/FONT]
+---
+
+[FONT="Courier New"][COLOR="DarkSlateGray"][SIZE="4"][B]Instructions[/B][/SIZE][/COLOR][/FONT]
+Download the latest build
+Reboot to recovery
+Flash the latest build
+Reboot
+
+[I][B][SIZE="3"][URL="https://github.com/KrakenProject"]Github Source[/URL]
+[URL="https://t.me/KrakenNews"]Telegram News[/URL]
+[URL="https://t.me/KrakenProject"]Telegram Chat[/URL][/SIZE][/B][/I]
+
+[URL="https://krakenproject.club/?device=YOUR_DEVICE"][IMG="Download Kraken"]https://i.imgur.com/1pCP6kI.png[/IMG][/URL]
+[B]ROM Firmware Required: YOUR_FIRMWARE[/B][/CENTER]
