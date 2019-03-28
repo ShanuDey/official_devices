@@ -31,7 +31,7 @@ Before you open a pull request to add your device into our list of official devi
 
 2.5 - Relationships fights can be done in PM on Telegram or XDA.
 
-2.6 - The maintainers also need to add 'export KRAKEN_BUILD_TYPE=OFFICIAL' in their build environment so OTA app will be included.
+2.6 - The maintainers also need to add 'export CUSTOM_BUILD_TYPE=OFFICIAL' in their build environment so OTA app will be included.
 
 ### 3. Hosting
 
@@ -41,7 +41,7 @@ Our files are hosted on the SourceForge server, you will receive the credentials
 For each new version, you need to upload the changelog to this repository in the device specific folder.
 
 The changelog file name must match the **.zip** file name and should end with **.txt**
-Eg: **.zip** is **Kraken_whyred-Pie-20190514-2119-OFFICIAL.zip**, changelog file name should be **Kraken_whyred-Pie-20190514-2119-OFFICIAL.txt**
+Eg: **.zip** is **KK_whyred-9.0-20190514-2119-v1.0.zip**, changelog file name should be **KK_whyred-9.0-20190514-2119-v1.0.txt**
 
 ### 5. Over-the-air (OTA) updates
 Our system is automatic, you should not worry about updating some script, just upload the new build to the FTP server and send a pull request with the changelog and also edit your device JSON file (**builds/your_device_codename.json**) in this repository.
@@ -71,4 +71,5 @@ Eg: Moto G 2013 is called **falcon**, so the device JSON file is **builds/falcon
 | romtype | OFFICIAL | Yes |
 | size | Build file (.zip) size (in bytes) | Yes |
 | url | URL | Yes |
-| version | Pie | Yes |
+| kk_version | 1.0 | Yes |
+| version | 9.0 | Yes |
