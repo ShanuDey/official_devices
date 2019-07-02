@@ -2,3 +2,6 @@
 - Update Kernel sources 4.4.184
 - Improvements volume call step
 - Update blobs from stable 9.0.6
+- Upstreamed kernel sources CAF
+- Audio higher maxOpenCount to 4
+- Update props display from CAF
