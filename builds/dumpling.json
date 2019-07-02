@@ -8,6 +8,15 @@
       "size": "919023042",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/dumpling/Kraken_dumpling-Pie-20190526-1311-OFFICIAL.zip",
       "version": "Pie"
+    },
+    {
+      "datetime": "1562014626",
+      "filename": "Kraken_dumpling-v1.0-20190702-0727-OFFICIAL.zip",
+      "id": "6abc8d2b16e9aaf8da6f7d79d618f844",
+      "romtype": "OFFICIAL",
+      "size": "924165953",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/dumpling/Kraken_dumpling-v1.0-20190702-0727-OFFICIAL.zip",
+      "version": "Pie"
     }
   ]
 }
