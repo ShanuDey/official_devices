@@ -15,7 +15,7 @@
       "maintainer_url": "https://github.com/eduardobastier93",
       "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-krakenproject-t3934127"
     },
-    { 
+    {
       "name": "Moto G5S",
       "brand": "Motorola",
       "codename": "montana",
@@ -101,6 +101,14 @@
       "codename": "vince",
       "maintainer_name": "luizhfcb",
       "maintainer_url": "https://github.com/luizhfcb",
+      "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+      "name": "Redmi Note 6 Pro",
+      "brand": "Xiaomi",
+      "codename": "tulip",
+      "maintainer_name": "tioburla",
+      "maintainer_url": "https://github.com/tioburla",
       "xda_thread": "https://forum.xda-developers.com/"
     }
 ]
