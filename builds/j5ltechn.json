@@ -17,6 +17,15 @@
       "size": "591709143",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/j5ltechn/Kraken_j5ltechn-Pie-20190530-1022-OFFICIAL.zip",
       "version": "Pie"
+    },
+    {
+      "datetime": "1562187290",
+      "filename": "Kraken_j5ltechn-v1.0-20190703-1754-OFFICIAL.zip",
+      "id": "10c16991af4687fb18e6abca2bb92ddb",
+      "romtype": "OFFICIAL",
+      "size": "597699437",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/j5ltechn/Kraken_j5ltechn-v1.0-20190703-1754-OFFICIAL.zip",
+      "version": "Pie"
     }
   ]
 }

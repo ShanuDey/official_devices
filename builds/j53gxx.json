@@ -17,6 +17,15 @@
       "size": "591670851",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/j53gxx/Kraken_j53gxx-Pie-20190530-1050-OFFICIAL.zip",
       "version": "Pie"
+    },
+    {
+      "datetime": "1562189032",
+      "filename": "Kraken_j53gxx-v1.0-20190703-1823-OFFICIAL.zip",
+      "id": "55325c72f1f446457864c6716c740090",
+      "romtype": "OFFICIAL",
+      "size": "597685584",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/j53gxx/Kraken_j53gxx-v1.0-20190703-1823-OFFICIAL.zip",
+      "version": "Pie"
     }
   ]
 }

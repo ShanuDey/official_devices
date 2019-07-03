@@ -1,0 +1,2 @@
+- Updated source Kraken Project
+- Build with Trust Hal USB Restritor
