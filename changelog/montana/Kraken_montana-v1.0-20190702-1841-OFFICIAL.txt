@@ -1,0 +1,5 @@
+- Update sources kraken project
+- Show DocumentsUI internal storage by default
+- Wifi: Enable 2.4GHz channel bonding
+- Increase incall volume 
+- Show battery fully charged notification!
