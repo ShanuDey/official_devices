@@ -7,6 +7,7 @@
       "romtype": "OFFICIAL",
       "size": "587240543",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/j53gxx/Kraken_j53gxx-Pie-20190522-1739-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -16,6 +17,7 @@
       "romtype": "OFFICIAL",
       "size": "591670851",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/j53gxx/Kraken_j53gxx-Pie-20190530-1050-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -25,6 +27,7 @@
       "romtype": "OFFICIAL",
       "size": "597685584",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/j53gxx/Kraken_j53gxx-v1.0-20190703-1823-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     }
   ]

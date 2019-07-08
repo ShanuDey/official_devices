@@ -7,6 +7,7 @@
       "romtype": "OFFICIAL",
       "size": "771060265",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/shamrock/Kraken_shamrock-Pie-20190519-2326-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -16,6 +17,7 @@
       "romtype": "OFFICIAL",
       "size": "771910650",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/shamrock/Kraken_shamrock-Pie-20190610-2114-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     }
    ]

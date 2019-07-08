@@ -7,6 +7,7 @@
       "romtype": "OFFICIAL",
       "size": "821465081",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/montana/Kraken_montana-Pie-20190628-1634-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -16,6 +17,7 @@
       "romtype": "OFFICIAL",
       "size": "821755956",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/montana/Kraken_montana-v1.0-20190702-1841-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     }
   ]

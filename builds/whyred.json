@@ -7,6 +7,7 @@
       "romtype": "OFFICIAL",
       "size": "872425631",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/whyred/Kraken_whyred-Pie-20190514-2119-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -16,6 +17,7 @@
       "romtype": "OFFICIAL",
       "size": "928072189",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/whyred/Kraken_whyred-Pie-20190519-1710-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -25,6 +27,7 @@
       "romtype": "OFFICIAL",
       "size": "865514795",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/whyred/Kraken_whyred-Pie-20190529-0216-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     }
   ]

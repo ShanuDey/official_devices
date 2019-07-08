@@ -7,6 +7,7 @@
       "romtype": "OFFICIAL",
       "size": "841955777",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/potter/Kraken_potter-Pie-20190527-1603-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -16,6 +17,7 @@
       "romtype": "OFFICIAL",
       "size": "842527981",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/potter/Kraken_potter-Pie-20190609-0836-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -25,6 +27,7 @@
       "romtype": "OFFICIAL",
       "size": "840262518",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/potter/Kraken_potter-Pie-20190617-0128-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -34,7 +37,8 @@
       "romtype": "OFFICIAL",
       "size": "845827653",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/potter/Kraken_potter-Pie-20190628-0645-OFFICIAL.zip",
-      "version": "Pie" 
+      "kk_version": "1.0",
+      "version": "Pie"
     }
   ]
 }

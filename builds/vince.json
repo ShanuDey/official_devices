@@ -7,6 +7,7 @@
       "romtype": "OFFICIAL",
       "size": "873618893",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/vince/Kraken_vince-Pie-20190526-1927-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -16,6 +17,7 @@
       "romtype": "OFFICIAL",
       "size": "848651981",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/vince/Kraken_vince-Pie-20190601-0003-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -25,6 +27,7 @@
       "romtype": "OFFICIAL",
       "size": "872492901",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/vince/Kraken_vince-Pie-20190609-0843-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     }
   ]

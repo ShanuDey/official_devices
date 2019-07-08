@@ -7,6 +7,7 @@
       "romtype": "OFFICIAL",
       "size": "919023042",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/dumpling/Kraken_dumpling-Pie-20190526-1311-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -16,6 +17,7 @@
       "romtype": "OFFICIAL",
       "size": "924165953",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/dumpling/Kraken_dumpling-v1.0-20190702-0727-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     }
   ]

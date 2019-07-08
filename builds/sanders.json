@@ -7,6 +7,7 @@
       "romtype": "OFFICIAL",
       "size": "787012530",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/sanders/Kraken_sanders-Pie-20190527-0336-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -16,6 +17,7 @@
       "romtype": "OFFICIAL",
       "size": "785362842",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/sanders/Kraken_sanders-Pie-20190610-1701-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     }
   ]

@@ -7,6 +7,7 @@
       "romtype": "OFFICIAL",
       "size": "770262511",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/beryllium/Kraken_beryllium-Pie-20190604-1807-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -16,6 +17,7 @@
       "romtype": "OFFICIAL",
       "size": "770398452",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/beryllium/Kraken_beryllium-Pie-20190628-1350-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     },
     {
@@ -25,6 +27,7 @@
       "romtype": "OFFICIAL",
       "size": "770396841",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/beryllium/Kraken_beryllium-v1.0-20190628-1946-OFFICIAL.zip",
+      "kk_version": "1.0",
       "version": "Pie"
     }
   ]
