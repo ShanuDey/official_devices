@@ -29,6 +29,16 @@
       "url": "https://master.dl.sourceforge.net/project/krakenproject/beryllium/Kraken_beryllium-v1.0-20190628-1946-OFFICIAL.zip",
       "kk_version": "1.0",
       "version": "Pie"
+    },
+    {
+      "datetime": "1562605590",
+      "filename": "Kraken_beryllium-v1.1-20190708-1406-OFFICIAL.zip",
+      "id": "5e52185347188f0d07dc6e2fe954c0e7",
+      "romtype": "OFFICIAL",
+      "size": "771710419",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/beryllium/Kraken_beryllium-v1.1-20190708-1406-OFFICIAL.zip",
+      "kk_version": "1.1",
+      "version": "Pie"
     }
   ]
 }
