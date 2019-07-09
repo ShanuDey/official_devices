@@ -80,6 +80,14 @@
       "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-kraken-tentacles-project-t3936920"
     },
     {
+      "name": "Redmi 3S/3X",
+      "brand": "Xiaomi",
+      "codename": "land",
+      "maintainer_name": "Ahmet Açıkgöz (NaytSeyd)",
+      "maintainer_url": "https://github.com/NaytSeyd",
+      "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
       "name": "Redmi Note 4/4X",
       "brand": "Xiaomi",
       "codename": "mido",
