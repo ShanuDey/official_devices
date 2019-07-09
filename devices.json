@@ -102,10 +102,10 @@
       "name": "Redmi Note 4/4X",
       "brand": "Xiaomi",
       "codename": "mido",
-      "maintainer_name": "Alif Fathur (rev31one)",
-      "maintainer_url": "https://github.com/darkthur",
+      "maintainer_name": "Anderson Mendes",
+      "maintainer_url": "https://github.com/andersonmendess",
       "xda_thread": "https://forum.xda-developers.com/",
-      "active": false
+      "active": true
     },
     {
       "name": "Redmi Note 5/Pro",
