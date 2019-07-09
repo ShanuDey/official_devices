@@ -5,7 +5,8 @@
       "codename": "shamrock",
       "maintainer_name": "tunasahinn",
       "maintainer_url": "https://github.com/tunasahinn",
-      "xda_thread": "https://forum.xda-developers.com/"
+      "xda_thread": "https://forum.xda-developers.com/",
+      "active": false
     },
     {
       "name": "Moto G5 Plus",
@@ -13,7 +14,8 @@
       "codename": "potter",
       "maintainer_name": "eduardobastier93",
       "maintainer_url": "https://github.com/eduardobastier93",
-      "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-krakenproject-t3934127"
+      "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-krakenproject-t3934127",
+      "active": true
     },
     {
       "name": "Moto G5S",
@@ -21,7 +23,8 @@
       "codename": "montana",
       "maintainer_name": "Esrom Cattaneo (EsromTech)",
       "maintainer_url": "https://github.com/EsromTech",
-      "xda_thread": "https://forum.xda-developers.com/moto-g5s/development/rom-kraken-project-moto-g5s-t3943467"
+      "xda_thread": "https://forum.xda-developers.com/moto-g5s/development/rom-kraken-project-moto-g5s-t3943467",
+      "active": true
     },
     {
       "name": "Moto G5S Plus",
@@ -29,7 +32,8 @@
       "codename": "sanders",
       "maintainer_name": "AlissonLauffer",
       "maintainer_url": "https://github.com/AlissonLauffer",
-      "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-kraken-tentacles-project-t3934506"
+      "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-kraken-tentacles-project-t3934506",
+      "active": true
     },
     {
       "name": "Oneplus 5T",
@@ -37,7 +41,8 @@
       "codename": "dumpling",
       "maintainer_name": "EsromTech",
       "maintainer_url": "https://github.com/EsromTech",
-      "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-kraken-project-oneplus-5t-dumpling-t3934022"
+      "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-kraken-project-oneplus-5t-dumpling-t3934022",
+      "active": true
     },
     {
       "name": "Galaxy J5 2015 LTE",
@@ -45,7 +50,8 @@
       "codename": "j5lte",
       "maintainer_name": "EsromTech",
       "maintainer_url": "https://github.com/EsromTech",
-      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676"
+      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676",
+      "active": false
     },
     {
       "name": "Galaxy J5 2015 NFC",
@@ -53,7 +59,8 @@
       "codename": "j5nlte",
       "maintainer_name": "EsromTech",
       "maintainer_url": "https://github.com/EsromTech",
-      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676"
+      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676",
+      "active": false
     },
     {
       "name": "Galaxy J5 2015 China",
@@ -61,7 +68,8 @@
       "codename": "j5ltechn",
       "maintainer_name": "EsromTech",
       "maintainer_url": "https://github.com/EsromTech",
-      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676"
+      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676",
+      "active": false
     },
     {
       "name": "Galaxy J5 2015 3G",
@@ -69,7 +77,8 @@
       "codename": "j53gxx",
       "maintainer_name": "EsromTech",
       "maintainer_url": "https://github.com/EsromTech",
-      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676"
+      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676",
+      "active": false
     },
     {
       "name": "Poco F1",
@@ -77,7 +86,8 @@
       "codename": "beryllium",
       "maintainer_name": "mamutal91",
       "maintainer_url": "https://github.com/mamutal91",
-      "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-kraken-tentacles-project-t3936920"
+      "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-kraken-tentacles-project-t3936920",
+      "active": true
     },
     {
       "name": "Redmi 3S/3X",
@@ -85,7 +95,8 @@
       "codename": "land",
       "maintainer_name": "Ahmet Açıkgöz (NaytSeyd)",
       "maintainer_url": "https://github.com/NaytSeyd",
-      "xda_thread": "https://forum.xda-developers.com/"
+      "xda_thread": "https://forum.xda-developers.com/",
+      "active": true
     },
     {
       "name": "Redmi Note 4/4X",
@@ -93,7 +104,8 @@
       "codename": "mido",
       "maintainer_name": "Alif Fathur (rev31one)",
       "maintainer_url": "https://github.com/darkthur",
-      "xda_thread": "https://forum.xda-developers.com/"
+      "xda_thread": "https://forum.xda-developers.com/",
+      "active": true
     },
     {
       "name": "Redmi Note 5/Pro",
@@ -101,7 +113,8 @@
       "codename": "whyred",
       "maintainer_name": "mamutal91",
       "maintainer_url": "https://github.com/mamutal91",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-kraken-tentacles-project-t3923830"
+      "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-kraken-tentacles-project-t3923830",
+      "active": true
     },
     {
       "name": "Redmi Note 5/Plus",
@@ -109,7 +122,8 @@
       "codename": "vince",
       "maintainer_name": "luizhfcb",
       "maintainer_url": "https://github.com/luizhfcb",
-      "xda_thread": "https://forum.xda-developers.com/"
+      "xda_thread": "https://forum.xda-developers.com/",
+      "active": true
     },
     {
       "name": "Redmi Note 6 Pro",
@@ -117,6 +131,7 @@
       "codename": "tulip",
       "maintainer_name": "tioburla",
       "maintainer_url": "https://github.com/tioburla",
-      "xda_thread": "https://forum.xda-developers.com/"
+      "xda_thread": "https://forum.xda-developers.com/",
+      "active": true
     }
 ]
