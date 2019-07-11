@@ -133,5 +133,14 @@
       "maintainer_url": "https://github.com/tioburla",
       "xda_thread": "https://forum.xda-developers.com/",
       "active": true
+    },
+    {
+      "name": "Mi A2 Lite",
+      "brand": "Xiaomi",
+      "codename": "daisy",
+      "maintainer_name": "tunasahinn",
+      "maintainer_url": "https://github.com/tunasahinn",
+      "xda_thread": "https://forum.xda-developers.com/",
+      "active": true
     }
 ]
