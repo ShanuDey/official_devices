@@ -1,0 +1,5 @@
+- Initial Build
+- better ram management
+- SeLinux Enforcing
+- Network signal strength improved
+- Battery Backup Improved
