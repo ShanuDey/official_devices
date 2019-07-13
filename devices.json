@@ -1,5 +1,14 @@
 [
     {
+      "name": "Zenfone Max Pro M1",
+      "brand": "Asus",
+      "codename": "X00TD",
+      "maintainer_name": "ShanuDey",
+      "maintainer_url": "https://github.com/ShanuDey",
+      "xda_thread": "https://forum.xda-developers.com/",
+      "active": true
+    },
+    {
       "name": "GM 5 Plus",
       "brand": "General Mobile",
       "codename": "shamrock",
