@@ -1,0 +1,1 @@
+- Add Spectrum kernel manager support
