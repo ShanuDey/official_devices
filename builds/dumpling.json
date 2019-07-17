@@ -19,6 +19,16 @@
       "url": "https://master.dl.sourceforge.net/project/krakenproject/dumpling/Kraken_dumpling-v1.0-20190702-0727-OFFICIAL.zip",
       "kk_version": "1.0",
       "version": "Pie"
+    },
+    {
+      "datetime": "1563382131",
+      "filename": "Kraken_dumpling-v1.1-20190717-1348-OFFICIAL.zip",
+      "id": "94f4744a48efe9a31d40d6d248afb02a",
+      "romtype": "OFFICIAL",
+      "size": "929168233",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/dumpling/Kraken_dumpling-v1.1-20190717-1348-OFFICIAL.zip",
+      "kk_version": "1.1",
+      "version": "Pie"
     }
   ]
 }

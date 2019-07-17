@@ -1,0 +1,17 @@
+Rom changelog:
+- Merge security path July (android-9.0.0_r44)
+- Add 3 finger swipe screenshot
+- Add setup UI for minimum delay between an app's notification sounds
+- LiveDisplaySettings: Fix outdoor mode preference on hwc2
+- overlays: accents: Update preview colors
+- settings: appops: support setting for work profile apps
+- Settings: Don't index display mode and color temperature on HWC2
+- Update Lawnchair alpha-2279
+
+Device changelog:
+- Kernel upstreamed to 4.4.185 rattlesnake v1.7
+- Kernel upstreamed from kernel base LineageOS
+- Audio: don't enable anc on voip calls
+- Audio: only enable anc on handset vc
+- Audio: set default qcom acdb id's for headset mic
+- Audio: update acdb table from 9.0.6
