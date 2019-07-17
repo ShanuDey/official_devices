@@ -14,4 +14,6 @@ Device changelog:
 - Wifi enabled Mac randomization
 - Enabled user preference option
 - Setup default swappiness value
+- Audio increase speaker & in-call sound
+- qti-telephony: enable aosp user preference option
 - Builded with CLang 9.0.5
