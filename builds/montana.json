@@ -19,6 +19,16 @@
       "url": "https://master.dl.sourceforge.net/project/krakenproject/montana/Kraken_montana-v1.0-20190702-1841-OFFICIAL.zip",
       "kk_version": "1.0",
       "version": "Pie"
+    },
+    {
+      "datetime": "1563376499",
+      "filename": "Kraken_montana-v1.1-20190717-1214-OFFICIAL.zip",
+      "id": "696b467c7ac49c579bcf5876957042b0",
+      "romtype": "OFFICIAL",
+      "size": "826673443",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/montana/Kraken_montana-v1.1-20190717-1214-OFFICIAL.zip",
+      "kk_version": "1.1",
+      "version": "Pie"
     }
   ]
 }
