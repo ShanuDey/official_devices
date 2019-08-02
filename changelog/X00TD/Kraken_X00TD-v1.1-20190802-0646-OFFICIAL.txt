@@ -1,0 +1,9 @@
+- More audio configs from stock rom
+- update graphics blobs
+- fingerprint is faster
+- added M2 stock Snapdragon camera
+- update overlay from S055
+- boot time reduced
+- better wifi speed 
+- default hotspot name Asus Zenfone Max Pro M1
+- better performance and battery backup
