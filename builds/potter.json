@@ -49,6 +49,16 @@
       "url": "https://master.dl.sourceforge.net/project/krakenproject/potter/Kraken_potter-v1.1-20190708-1737-OFFICIAL.zip",
       "kk_version": "1.1",
       "version": "Pie"
+    },
+    {
+      "datetime": "1565569442",
+      "filename": "Kraken_potter-v1.2-20190812-0224-OFFICIAL.zip",
+      "id": "315d7216cb6bae1f8c28f4c95841a8b3",
+      "romtype": "OFFICIAL",
+      "size": "845999472",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/potter/Kraken_potter-v1.2-20190812-0224-OFFICIAL.zip",
+      "kk_version": "1.2",
+      "version": "Pie"
     }
   ]
 }
