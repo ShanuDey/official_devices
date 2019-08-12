@@ -1,0 +1,9 @@
+Source Side: 
+- https://t.me/KrakenNews/109
+
+Device Side:
+- Update blobs from stock 056
+- Audio quality and loudness increased
+- QPower manages the new Deep sleep mode
+- Network speed and strength improved
+- Many more ... 
