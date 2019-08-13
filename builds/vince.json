@@ -29,6 +29,16 @@
       "url": "https://master.dl.sourceforge.net/project/krakenproject/vince/Kraken_vince-Pie-20190609-0843-OFFICIAL.zip",
       "kk_version": "1.0",
       "version": "Pie"
+    },
+    {
+      "datetime": "1565731611",
+      "filename": "Kraken_vince-v1.2-20190813-2126-OFFICIAL.zip",
+      "id": "f742799253a4e999d8fca3d7f2fb45cc",
+      "romtype": "OFFICIAL",
+      "size": "854680780",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/vince/Kraken_vince-v1.2-20190813-2126-OFFICIAL.zip",
+      "kk_version": "1.2",
+      "version": "Pie"
     }
   ]
 }
