@@ -18,6 +18,15 @@
       "active": false
     },
     {
+      "name": "Moto G5",
+      "brand": "Motorola",
+      "codename": "cedric",
+      "maintainer_name": "rssxda10",
+      "maintainer_url": "https://github.com/rssxda10",
+      "xda_thread": "https://forum.xda-developers.com/",
+      "active": true
+    },
+    {
       "name": "Moto G5 Plus",
       "brand": "Motorola",
       "codename": "potter",
