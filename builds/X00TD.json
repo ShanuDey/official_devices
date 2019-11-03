@@ -29,6 +29,16 @@
       "url": "https://master.dl.sourceforge.net/project/krakenproject/X00TD/Kraken_X00TD-v1.2-20190812-0202-OFFICIAL.zip",
       "kk_version": "1.2",
       "version": "Pie"
+    },
+    {
+      "datetime": "1572780152",
+      "filename": "KK_X00T-10.0-20191103-1653-v2.1.zip",
+      "id": "848dfb925895bc230cb5f3b068303dca",
+      "romtype": "OFFICIAL",
+      "size": "636698600",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/X00TD/KK_X00T-10.0-20191103-1653-v2.1.zip",
+      "kk_version": "2.1",
+      "version": "10.0"
     }
   ]
 }
